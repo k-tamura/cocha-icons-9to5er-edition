@@ -1,4 +1,4 @@
-# Cocha Icons 9to5er edition
+# Cocha Icons 9to5er Edition
 
 ![movie](https://raw.githubusercontent.com/k-tamura/cocha-icons-9to5er-edition/master/dive_movie.gif)![movie](https://raw.githubusercontent.com/k-tamura/cocha-icons-9to5er-edition/master/sample.png)
 
