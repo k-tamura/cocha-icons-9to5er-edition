@@ -8,6 +8,8 @@ The **CO**mmon **CHA**racteristic icons office worker edition. Feel free to use.
 
 ![all](https://raw.githubusercontent.com/k-tamura/cocha-icons-9to5er-edition/master/all.png)
 
+----
+
 Please add the following code to your page if using the icons.
 
  - Markdown
@@ -23,6 +25,3 @@ Please add the following code to your page if using the icons.
 ```
 
 [![cci95logo.gif](https://raw.githubusercontent.com/k-tamura/cocha-icons-9to5er-edition/master/cci95logo.gif)](https://github.com/k-tamura/cocha-icons-9to5er-edition)
-
-----
-
