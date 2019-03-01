@@ -2,7 +2,7 @@
 
 ![movie](https://raw.githubusercontent.com/k-tamura/cocha-icons-9to5er-edition/master/cci95logo.gif)![movie](https://raw.githubusercontent.com/k-tamura/cocha-icons-9to5er-edition/master/sample2.png)
 
-**CO**mmon **CHA**racteristic アイコンのオフィス・ワーカー・エディションです。ご自由に利用下さい。
+**CO**mmon **CHA**racteristic icons（Cochaアイコン）のオフィス・ワーカー・エディションです。ご自由に利用下さい。
 
 ![all](https://raw.githubusercontent.com/k-tamura/cocha-icons-9to5er-edition/master/all.png)
 
