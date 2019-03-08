@@ -1,8 +1,11 @@
 # Cocha Icons 9to5er Edition
 
+![logo](https://raw.githubusercontent.com/k-tamura/cocha-icons-9to5er-edition/master/logo.gif)
+<!--
 ![title](https://raw.githubusercontent.com/k-tamura/cocha-icons-9to5er-edition/master/title.png)
 
 ![movie](https://raw.githubusercontent.com/k-tamura/cocha-icons-9to5er-edition/master/cci95logo.gif)![movie](https://raw.githubusercontent.com/k-tamura/cocha-icons-9to5er-edition/master/sample2.png)
+-->
 
 **CO**mmon **CHA**racteristic icons（Cocha Icons）のオフィス・ワーカー・エディションです。ご自由に利用下さい。
 
